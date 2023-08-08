@@ -1,0 +1,55 @@
+.bg-grey {
+    background-color: #555555;
+}
+
+.btn-grey {
+    background-color: #555555;
+    color: white;
+}
+
+.form-signin .form-floating:focus-within {
+    z-index: 2;
+}
+
+.form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.form-registration input {
+    border-radius: 0;
+    margin-bottom: -1px;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #555555;
+}
+
+.tengah{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+hr{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid  #555555;
+}
+
+.navbar-dark{
+    color: white;
+}
+a:hover{
+    color: yellow;
+}
